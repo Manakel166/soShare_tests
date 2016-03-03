@@ -1,1 +1,1 @@
-call "E:\RF_STUDIO\00_CONSOLE\pybot_portable.bat" soShare_BDD.robot
+call "E:\RF_STUDIO\00_CONSOLE\pybot_portable.bat" %WORKSPACE%\soShare_BDD.robot
